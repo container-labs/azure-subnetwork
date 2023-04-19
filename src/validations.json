@@ -1,0 +1,6 @@
+{
+    "__comment": "TODO: Add links to documentation about what this does. Anyway we can whitelist cloud resources and create this as part of mass bundle build?",
+    "do_not_delete": [
+        "azurerm_subnet.main"
+    ]
+}
